@@ -24,3 +24,6 @@ jobs:
     
     - name: Execute unit tests
       run: npm run test:unit
+
+    - name: Display Softuni username
+      run: echo 'peshkata93'
